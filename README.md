@@ -12,6 +12,11 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - 🍎 Graduated in the first class of the BEPiD (Brazillian Education Program for iOS Development) with a focus on iOS application development in Swift and Objective-C.
 - 🏢 Co-founder of Koruja Software Ltda.
 
+## 🔧 Projects I worked on
+- [Kinbox](kinbox.com.br)
+- [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR)
+- [Carmais](https://www.carmais.com.br/)
+
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/+558599664490)
