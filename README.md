@@ -17,6 +17,12 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR) - GanhoMais is a payroll loan application that optimizes your debts and offers services
 - [Carmais](https://www.carmais.com.br/) - The application is used internally by employees to increase the company's productivity
 
+## ✏️ What I'm learning
+
+- [Nestjs](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+- [Nextjs](https://nextjs.org/) - Frontend framework to be use with React on server side
+- [Typeorm](https://typeorm.io/) - TypeORM is an ORM that can run in many javascript environments
+
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/+558599664490)
