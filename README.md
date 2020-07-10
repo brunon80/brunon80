@@ -10,7 +10,7 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 🔭 Full Stack software developer (Mobile, Web and Backend). I use React, React Native, Node.js and Javascript technologies since 2015.
 - 🍎 Graduated in the first class of the BEPiD (Brazillian Education Program for iOS Development) with a focus on iOS application development in Swift and Objective-C.
-- 🏢 Cofunfador da empresa Koruja Software Ltda.
+- 🏢 Co-founder of Koruja Software Ltda.
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
