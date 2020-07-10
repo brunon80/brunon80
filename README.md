@@ -13,9 +13,9 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - 🏢 Co-founder of Koruja Software Ltda.
 
 ## 🔧 Projects I worked on
-- [Kinbox](kinbox.com.br)
-- [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR)
-- [Carmais](https://www.carmais.com.br/)
+- [Kinbox](kinbox.com.br) - Kinbox is a communication platform that unites the service of several social networks
+- [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR) - GanhoMais is a payroll loan application that optimizes your debts and offers services
+- [Carmais](https://www.carmais.com.br/) - The application is used internally by employees to increase the company's productivity
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
