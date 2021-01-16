@@ -16,7 +16,7 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [Kinbox](kinbox.com.br) - Kinbox is a communication platform that unites the service of several social networks
 - [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR) - GanhoMais is a payroll loan application that optimizes your debts and offers services
 - [Carmais](https://www.carmais.com.br/) - The application is used internally by employees to increase the company's productivity
-- [Somapay - currently](https://play.google.com/store/apps/details?id=br.com.somapay.app.android&hl=pt_BR) - Somapay is a complete digital account, so you can do everything you need, without leaving your home.
+- [(currently) Somapay](https://play.google.com/store/apps/details?id=br.com.somapay.app.android&hl=pt_BR) - Somapay is a complete digital account, so you can do everything you need, without leaving your home.
 
 ## ✏️ What I'm learning
 
