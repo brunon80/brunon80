@@ -16,14 +16,16 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [Kinbox](kinbox.com.br) - Kinbox is a communication platform that unites the service of several social networks
 - [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR) - GanhoMais is a payroll loan application that optimizes your debts and offers services
 - [Carmais](https://www.carmais.com.br/) - The application is used internally by employees to increase the company's productivity
+- [Somapay - currently](https://play.google.com/store/apps/details?id=br.com.somapay.app.android&hl=pt_BR) - Somapay is a complete digital account, so you can do everything you need, without leaving your home.
 
 ## ✏️ What I'm learning
 
 - [Nestjs](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 - [Nextjs](https://nextjs.org/) - Frontend framework to be use with React on server side
 - [Typeorm](https://typeorm.io/) - TypeORM is an ORM that can run in many javascript environments
+- [React Native - Animations](https://reactnative.dev/docs/animations) - Building beautiful, rich, live interfaces 
 
-# Hello World!! 🤔
+# Hello World!! 🚀
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/+558599664490)
 - ⚡ Fun fact: I love meeting new people and eating food! 
