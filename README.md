@@ -1,6 +1,8 @@
 # Bruno Rocha
 [![Twitter Badge](https://img.shields.io/badge/-@BrunoRolim12-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunoRolim12)](https://twitter.com/BrunoRolim12) [![Linkedin Badge](https://img.shields.io/badge/-brunorolim-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/bruno-rolim/)](https://www.linkedin.com/in/bruno-rolim/) [![Medium Badge](https://img.shields.io/badge/-@brunorolim-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@brunorolim)](https://medium.com/@brunorolim)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.rocha2008@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.rocha2008@gmail.com)](mailto:bruno.rocha2008@gmail.comm)
+
+<a target="blank" href="https://profile-counter.glitch.me/brunon80/count.svg"><p align="center">⚡ Visitor Counts ⚡<br><br> <img src="https://profile-counter.glitch.me/brunon80/count.svg" /></a>
 ---
 
 ## Hi there 👋,           
