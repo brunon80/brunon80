@@ -5,6 +5,11 @@
 <a target="blank" href="https://profile-counter.glitch.me/brunon80/count.svg"><p align="center">⚡ Visitor Counts ⚡<br><br> <img src="https://profile-counter.glitch.me/brunon80/count.svg" /></a>
 ---
 
+## Github Statistics
+  
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunon80)
+![Bruno's trophies](https://github-profile-trophy.vercel.app/?username=brunon80&column=3&margin-w=7&margin-h=7)
+
 ## Hi there 👋,           
 I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Federal do Ceará (IFCE).  I am a software engineering. Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
 
@@ -18,7 +23,7 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [Kinbox](kinbox.com.br) - Kinbox is a communication platform that unites the service of several social networks
 - [GanhoMais](https://play.google.com/store/apps/details?id=com.genpp.GanhoMais&hl=pt_BR) - GanhoMais is a payroll loan application that optimizes your debts and offers services
 - [Carmais](https://www.carmais.com.br/) - The application is used internally by employees to increase the company's productivity
-- [(currently) Somapay](https://play.google.com/store/apps/details?id=br.com.somapay.app.android&hl=pt_BR) - Somapay is a complete digital account, so you can do everything you need, without leaving your home.
+- [Somapay (currently) ](https://play.google.com/store/apps/details?id=br.com.somapay.app.android&hl=pt_BR) - Somapay is a complete digital account, so you can do everything you need, without leaving your home.
 
 ## ✏️ What I'm learning
 
@@ -26,12 +31,13 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [Nextjs](https://nextjs.org/) - Frontend framework to be use with React on server side
 - [Typeorm](https://typeorm.io/) - TypeORM is an ORM that can run in many javascript environments
 - [React Native - Animations](https://reactnative.dev/docs/animations) - Building beautiful, rich, live interfaces 
+- And how to become a good fron-tend tech leader 🎓
 
 # Hello World!! 🚀
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/+558599664490)
 - ⚡ Fun fact: I love meeting new people and eating food! 
 - 💻 My web site https://brunorocha.netlify.app
-- 💬 Ping Me about #frontend, #backend, #developmenty, #tecnology, #speaking opportunity, #Marketing and anything you like
+- 💬 Ping Me about #frontend, #backend, #development, #tecnology, #speaking opportunity, #Marketing and anything you like
 ---
 
