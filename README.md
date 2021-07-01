@@ -31,7 +31,7 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [Nextjs](https://nextjs.org/) - Frontend framework to be use with React on server side
 - [Typeorm](https://typeorm.io/) - TypeORM is an ORM that can run in many javascript environments
 - [React Native - Animations](https://reactnative.dev/docs/animations) - Building beautiful, rich, live interfaces 
-- And how to become a good fron-tend tech leader 🎓
+- And how to become a good front-end tech leader 🎓
 
 # Hello World!! 🚀
 - 💬 Ask me about anything and everything! 
