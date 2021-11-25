@@ -8,7 +8,7 @@
 ## Github Statistics
   
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunon80&show_icons=true&include_all_commits=true&count_private=true)
-![Bruno's trophies](https://github-profile-trophy.vercel.app/?username=brunon80&column=3&margin-w=7&margin-h=7)
+![Bruno's trophies](https://github-profile-trophy.vercel.app/?username=brunon80&column=4&margin-w=7&margin-h=7)
 
 ## Hi there 👋,           
 I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Federal do Ceará (IFCE).  I am a software engineering. Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
@@ -31,7 +31,8 @@ I'm Bruno Rocha, I have degree in Computer engineering 👨‍💻 Instituto Fed
 - [Nestjs](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 - [Nextjs](https://nextjs.org/) - Frontend framework to be use with React on server side
 - [Typeorm](https://typeorm.io/) - TypeORM is an ORM that can run in many javascript environments
-- [React Native](https://reactnative.dev/docs/animations) - Building beautiful, rich, live interfaces 
+- [React Native](https://reactnative.dev/docs/animations) - Building beautiful, rich, live interfaces
+- [Micro Frontends](https://micro-frontends.org/) - The current trend is to build a feature-rich and powerful browser application, aka single page app, which sits on top of a micro service architecture
 - How to become a good front-end tech leader 🎓
 
 # Hello World!! 🚀
